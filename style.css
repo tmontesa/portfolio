@@ -166,7 +166,13 @@ p {
     text-align: justify;
 }
 
+p a {
+    font-weight: 700;
+}
 
+p a:hover {
+    text-decoration: underline;
+}
 
 
 
